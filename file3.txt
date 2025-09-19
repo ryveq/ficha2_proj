@@ -6,10 +6,10 @@ E
 U
 
 
-<h2>Bebidas</h2>
+<h2>Comidas</h2>
 
 <ul>
-	<li>Coffee</li>
-	<li>Tea</li>
-	<li>Milk</li>
+	<li>Bolo</li>
+	<li>Pao</li>
+	<li>Arroz</li>
 </ul>
