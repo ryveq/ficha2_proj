@@ -1,3 +1,6 @@
 Este é o exemplo de um ficheiro de texto file1
 
 alteracao!
+
+
+feito no branch NewFeature
